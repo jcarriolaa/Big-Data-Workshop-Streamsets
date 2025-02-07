@@ -108,4 +108,7 @@ El objetivo del challenge es construir un pipeline de streaming utilizando Strea
 
 Este desafío te permitirá entender mejor cómo integrar StreamSets con tecnologías de procesamiento de datos en tiempo real y almacenamiento distribuido.
 
+Diagrama de arquitectura para referencia
+
+https://github.com/jcarriolaa/Big-Data-Workshop-Streamsets/blob/9f1f625dc88388dbf083d49b83437ed063534729/Images/streamsetskafka.png
 
