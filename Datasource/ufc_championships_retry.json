@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2023-11-11T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 295",
+            "fighter_1": "Alex Pereira",
+            "fighter_2": "Jiri Prochazka",
+            "champion": "Alex Pereira",
+            "title": "Light Heavyweight Championship"
+        }
+    },
+    {
+        "id": 2,
+        "timestamp": "2023-07-29T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 291",
+            "fighter_1": "Dustin Poirier",
+            "fighter_2": "Justin Gaethje",
+            "champion": "Justin Gaethje",
+            "title": "BMF Title"
+        }
+    },
+    {
+        "id": 3,
+        "timestamp": "2023-03-04T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 285",
+            "fighter_1": "Jon Jones",
+            "fighter_2": "Ciryl Gane",
+            "champion": "Jon Jones",
+            "title": "Heavyweight Championship"
+        }
+    },
+    {
+        "id": 4,
+        "timestamp": "2022-10-22T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 280",
+            "fighter_1": "Islam Makhachev",
+            "fighter_2": "Charles Oliveira",
+            "champion": "Islam Makhachev",
+            "title": "Lightweight Championship"
+        }
+    },
+    {
+        "id": 5,
+        "timestamp": "2022-07-02T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 276",
+            "fighter_1": "Israel Adesanya",
+            "fighter_2": "Jared Cannonier",
+            "champion": "Israel Adesanya",
+            "title": "Middleweight Championship"
+        }
+    },
+    {
+        "id": 6,
+        "timestamp": "2021-11-06T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 268",
+            "fighter_1": "Kamaru Usman",
+            "fighter_2": "Colby Covington",
+            "champion": "Kamaru Usman",
+            "title": "Welterweight Championship"
+        }
+    },
+    {
+        "id": 7,
+        "timestamp": "2021-03-06T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 259",
+            "fighter_1": "Jan B\u0142achowicz",
+            "fighter_2": "Israel Adesanya",
+            "champion": "Jan B\u0142achowicz",
+            "title": "Light Heavyweight Championship"
+        }
+    },
+    {
+        "id": 8,
+        "timestamp": "2020-07-11T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 251",
+            "fighter_1": "Kamaru Usman",
+            "fighter_2": "Jorge Masvidal",
+            "champion": "Kamaru Usman",
+            "title": "Welterweight Championship"
+        }
+    },
+    {
+        "id": 9,
+        "timestamp": "2019-12-14T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 245",
+            "fighter_1": "Kamaru Usman",
+            "fighter_2": "Colby Covington",
+            "champion": "Kamaru Usman",
+            "title": "Welterweight Championship"
+        }
+    },
+    {
+        "id": 10,
+        "timestamp": "2019-07-06T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 239",
+            "fighter_1": "Jon Jones",
+            "fighter_2": "Thiago Santos",
+            "champion": "Jon Jones",
+            "title": "Light Heavyweight Championship"
+        }
+    },
+    {
+        "id": 11,
+        "timestamp": "2023-08-19T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 292",
+            "fighter_1": "Aljamain Sterling",
+            "fighter_2": "Sean O'Malley",
+            "champion": "Sean O'Malley",
+            "title": "Bantamweight Championship"
+        }
+    },
+    {
+        "id": 12,
+        "timestamp": "2023-06-10T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 289",
+            "fighter_1": "Amanda Nunes",
+            "fighter_2": "Irene Aldana",
+            "champion": "Amanda Nunes",
+            "title": "Women's Bantamweight Championship"
+        }
+    },
+    {
+        "id": 13,
+        "timestamp": "2023-03-04T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 285",
+            "fighter_1": "Valentina Shevchenko",
+            "fighter_2": "Alexa Grasso",
+            "champion": "Alexa Grasso",
+            "title": "Women's Flyweight Championship"
+        }
+    },
+    {
+        "id": 14,
+        "timestamp": "2022-11-12T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 281",
+            "fighter_1": "Carla Esparza",
+            "fighter_2": "Zhang Weili",
+            "champion": "Zhang Weili",
+            "title": "Women's Strawweight Championship"
+        }
+    },
+    {
+        "id": 15,
+        "timestamp": "2022-07-30T00:00:00Z",
+        "data": {
+            "ufc_event": "UFC 277",
+            "fighter_1": "Julianna Pe\u00f1a",
+            "fighter_2": "Amanda Nunes",
+            "champion": "Amanda Nunes",
+            "title": "Women's Bantamweight Championship"
+        }
+    }
+]
