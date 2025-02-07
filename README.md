@@ -110,5 +110,6 @@ Este desafío te permitirá entender mejor cómo integrar StreamSets con tecnolo
 
 Diagrama de arquitectura para referencia
 
-https://github.com/jcarriolaa/Big-Data-Workshop-Streamsets/blob/9f1f625dc88388dbf083d49b83437ed063534729/Images/streamsetskafka.png
+![Diagrama de arquitectura para referencia](https://github.com/jcarriolaa/Big-Data-Workshop-Streamsets/blob/9f1f625dc88388dbf083d49b83437ed063534729/Images/streamsetskafka.png
+)
 
