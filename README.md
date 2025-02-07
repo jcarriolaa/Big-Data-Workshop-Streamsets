@@ -80,7 +80,7 @@ Ahora que tienes StreamSets instalado y en funcionamiento, es hora de aplicar lo
 
 ### Objetivo
 El objetivo del challenge es construir un pipeline de streaming utilizando StreamSets, Kafka y Hadoop. Este pipeline debe:
-1. Leer archivos JSON con estructuras anidadas y mapas desde un directorio local.
+1. Leer archivos JSON con estructuras anidadas y mapas desde un directorio local. (el archivo se encuentra dentro de la carpeta "datasource")
 2. Publicar cada evento en un tópico de Kafka.
 3. Tener un segundo StreamSets como consumidor de Kafka, el cual:
    - Deserializa y aplana los eventos JSON.
